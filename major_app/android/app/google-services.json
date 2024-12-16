@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329975708336",
+    "project_id": "dietplanner-c9825",
+    "storage_bucket": "dietplanner-c9825.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329975708336:android:c10d4c8ebc0f2ebaf6d975",
+        "android_client_info": {
+          "package_name": "com.example.major_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEul097ouH6J7ldyFcCMFHHuOR9M-Csd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
